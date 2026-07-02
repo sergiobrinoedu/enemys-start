@@ -1,4 +1,9 @@
- 
+# Introdução
+Jogo criado na plataforma MakeCode Arcade, para gerar inimigos.
+
+# Objetivo
+
+Nesta aprendizagem o principal foco é desenvolver a lógica para a criação de um Jogo com inimigos que sigam o personagem em questãi 
 
 
 > Open this page at [https://sergiobrinoedu.github.io/enemys-start/](https://sergiobrinoedu.github.io/enemys-start/)
